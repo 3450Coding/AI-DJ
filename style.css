@@ -1,0 +1,35 @@
+.hW{
+    font-size: 18px;
+    width: 100%;
+    margin: 0px;
+}
+#note{
+    font-size: 15px;
+    color: black;
+}
+.image{
+    border-radius: 10px;
+    width: 200px;
+}
+.speed-content{
+    float: left;
+}
+
+.Head-content{
+    float: right;
+}
+#S{
+    margin-top: 15px;
+}
+
+#V{
+    margin-top: 15px;
+}
+.play{
+    font-size: 18px;
+    margin: 35px;
+    width: 100px;
+}
+canvas{
+    border-radius: 15px;
+}
